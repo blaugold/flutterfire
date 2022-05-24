@@ -51,6 +51,7 @@ build/
 .last_build_id
 
 # Docs
+doc/api/
 
 # Dependencies
 node_modules
